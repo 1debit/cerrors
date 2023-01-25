@@ -34,6 +34,5 @@ updates:
     prefix-development: "⬆️ "
     include: scope
   open-pull-requests-limit: 10
-  versioning-strategy: lockfile-only
   registries:
   - github-octocat
