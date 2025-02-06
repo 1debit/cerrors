@@ -2,8 +2,8 @@
 #
 # Anyone can edit
 #
-# This allows the @1debitops user to approve PRs and automerge them.
-# If you add someone below, you must also add @1debitops on the same line,
+# This allows the @chime-dependency-bot user to approve PRs and automerge them.
+# If you add someone below, you must also add @chime-dependency-bot on the same line,
 # otherwise automerge will break.
 # If you wish to not restrict reviewers for these files, but want to get
 # notified on Dependabot PRs, add a "reviewers" section to your dependabot.yml
